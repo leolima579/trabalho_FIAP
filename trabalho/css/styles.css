@@ -1,0 +1,47 @@
+.masthead {
+    background-size: cover;
+    min-height: 100vh;
+
+}
+
+.wholebox {
+    margin-top: -12vh;
+}
+
+.logo {
+    max-width: 15vh;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    margin-bottom: 5vh;
+}
+
+.logo2 {
+    max-width: 12vh;
+    display: block;
+    margin-left: 0%;
+    margin-right: 0%;
+    width: 100%;
+    margin-bottom: 5vh;
+}
+
+.userr {
+    text-align: center;
+
+}
+
+.userr {
+    text-align: right;
+}
+
+.texto {
+    margin-top: 1vh;
+    font-size: 16px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.row {
+    margin: 5px;
+}
+
